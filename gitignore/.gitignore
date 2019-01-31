@@ -1,9 +1,0 @@
-#ignore this file
-/test20190127/
-/target/
-
-#db file
-*.db
-
-#class file
-*.class
